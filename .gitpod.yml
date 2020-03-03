@@ -1,4 +1,4 @@
 tasks:
-  - init: npm install -g @angular/cli npm i
+  - init: npm install -g @angular/cli && cd ui-framework && npm i
   - command: ng serve --port=4200 --open
 image: gitpod/workspace-full
