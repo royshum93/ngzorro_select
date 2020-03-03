@@ -1,4 +1,4 @@
-[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/yv88john/ngzorro_select) 
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#github.com/royshum93/ngzorro_select/tree/royshum93/gitpod-setup)
 
 # ngzorro_select
 reproduce an error by ngzorro select
